@@ -1,0 +1,48 @@
+## Xcode
+xcuserdata
+*.xcuserstate
+*.xcbkptlist
+*.xcworkspace
+*.bak
+
+## Various settings
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+
+## Mac OSX
+.DS_Store
+.vscode/
+.idea/
+.theme/
+
+## Other
+*.moved-aside
+
+## Git
+*.orig
+
+## Obj-C/Swift specific
+*.hmap
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+## Playgrounds
+payment.xctimeline
+playground.xcworkspace
+
+## Swift Package Manager
+.build/
+
+## Carthage
+Carthage/*
+
+## Slather
+Coverage/
